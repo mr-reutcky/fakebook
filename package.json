@@ -6,7 +6,15 @@
   "scripts": {
     "start": "lite-server"
   },
-  "keywords": ["Social Media", "HTML", "CSS", "JavaScript"],
+  "keywords": [
+    "Social Media",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
   "author": "Samuel Reutcky",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
