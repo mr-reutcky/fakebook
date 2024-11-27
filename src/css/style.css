@@ -96,6 +96,7 @@ form {
     height: 100px;
     color: #fff;
     background-color: #242526;
+    resize: none;
   }
 
   input[type=button] {
