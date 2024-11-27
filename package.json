@@ -1,0 +1,26 @@
+{
+  "name": "fakebook",
+  "version": "1.0.0",
+  "description": "**Live Site:** [Fakebook on GitHub Pages](https://mr-reutcky.github.io/fakebook/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fakebook",
+    "social",
+    "media",
+    "clone",
+    "html",
+    "css",
+    "javascript",
+    "web",
+    "development"
+  ],
+  "author": "Samuel Reutcky",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
